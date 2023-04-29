@@ -15,7 +15,7 @@ Q1_CodeBook.data -> Q1.data -> [Q1_Integer.txt, Q1_Boolean.txt, Q1_Double.txt, Q
 
 CodeBook의 데이터를 하나 읽는 동시에 Q1의 데이터를 복호화하여 각 타입에 맞는 파일에 저장하고, 타입의 갯수를 추가하고, 실수형이라면 값을 더하는 방식으로 문제를 풀어나가면 된다.
 
-프로그램 실행결과는 다음과 같다.
+프로그램 실행결과는 다음과 같다.<br />
 <img width="601" alt="image" src="https://user-images.githubusercontent.com/63843822/235284971-8b4005f7-afc1-43c0-bf6b-99dafd95e9ef.png">
 
 
