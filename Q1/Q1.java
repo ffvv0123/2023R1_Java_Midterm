@@ -15,7 +15,7 @@ public class Q1 {
 		/**
 		 * Import Q1.data file. This file is cipher file
 		 */
-		File inFile = new File("/Users/jjos/Desktop/Java/2023_Midterm_OOP/Q1.data");
+	File inFile = new File("/Users/jjos/Desktop/Java/2023_Midterm_OOP/Q1.data");
         FileInputStream inStream1 = new FileInputStream(inFile);
         DataInputStream inDataStream1 = new DataInputStream(inStream1);
 
